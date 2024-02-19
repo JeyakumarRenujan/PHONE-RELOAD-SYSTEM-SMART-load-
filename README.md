@@ -36,4 +36,6 @@ the first time to proceed, for this default account we use <b>group17@gmail.com<
 ### Contact:
 For any inquiries or more information, feel free to contact us at 2022e065@eng.jfn.ac.lk. 
 <hr>
-<i>Thank you for your interest in the SMART Load Reload project.</i>
+<center>
+  <i>Thank you for your interest in the SMART Load Reload project.</i>
+</center>
