@@ -1,30 +1,30 @@
 # PHONE-RELOAD-SYSTEM(SMART load) <br>
 Phone Reload System (SMART load) GUI Project using C++/CLR in Visual Studio
-###INTRODUCTION:
+### INTRODUCTION:
 <p>In today's world, using our phones is a big part of our lives. Connecting us with the world and facilitating 
 communication. A routine task for many of us involves reloading our mobile credits to stay connected, 
 whether it's for calls, texts, or internet usage. Recognizing the widespread nature of this need, our team set 
 out to create a solution that transcends demographic boundaries that is, online mobile reload system. It is a 
 Graphical User Interface (GUI) project. We named our project as smart load. It like a smart and easy way 
 to reload your phone credit. Imagine it as a cool and friendly assistant that makes reloading quick and 
-simple.</p> <br>
+simple.</p>
 <p>We concentrated on every mistake that a user can make throughout the project and made relevant 
 adjustments to fix it. For examples, forgetting the password or the username, inputting invalid mobile 
-numbers etc.</p> <br>
+numbers etc.</p>
 <p>Since this project is done without including a data base system to manage user’s account, we made a default 
 account named Admin to proceed the payments and the password for this default account was group17.
-</p> <br>
+</p>
 <p>And we also justified changing the password process by replacing the old password with the new one, inorder to change the old password if forgot, we can use the mail id that was used for creating the account for
-the first time to proceed, for this default account we use group17@gmail.com as the mail id.</p> <br>
+the first time to proceed, for this default account we use group17@gmail.com as the mail id.</p>
 <p>We also made relevant adjustments to make the user to use this interface repeatedly until they want to stop.</p>
 
-###GROUP MEMBERS:
+### GROUP MEMBERS:
 - RENUJAN J. 2022/E/065
 - LOGITHAS K. 2022/E/066
 - KAJANI R. 2022/E/067
 - RISHIKESHAN K. 2022/E/068
 
-###Interfaces:
+### Interfaces:
 - Main Interface / First Interface / Log in Interface
 - Login Page with Error Handling
 - Sign Up interface
@@ -33,7 +33,7 @@ the first time to proceed, for this default account we use group17@gmail.com as 
 - Bill Summary interface / Payment Confirmation page
 - Final Interface / Payment success page
 
-###Contact:
+### Contact:
 For any inquiries or more information, feel free to contact us at 2022e065@eng.jfn.ac.lk. 
 <hr>
-> Thank you for your interest in the SMART Load Reload project.
+*Thank you for your interest in the SMART Load Reload project.*
