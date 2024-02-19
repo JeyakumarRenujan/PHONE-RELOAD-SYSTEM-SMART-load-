@@ -24,7 +24,7 @@ the first time to proceed, for this default account we use <b>group17@gmail.com<
 - KAJANI R. 2022/E/067
 - RISHIKESHAN K. 2022/E/068
 
-### Interfaces:
+### INTERFACES:
 - Main Interface / First Interface / Log in Interface
 - Login Page with Error Handling
 - Sign Up interface
@@ -33,9 +33,7 @@ the first time to proceed, for this default account we use <b>group17@gmail.com<
 - Bill Summary interface / Payment Confirmation page
 - Final Interface / Payment success page
 
-### Contact:
+### CONTACT:
 For any inquiries or more information, feel free to contact us at 2022e065@eng.jfn.ac.lk. 
 <hr>
-<center>
-  <i>Thank you for your interest in the SMART Load Reload project.</i>
-</center>
+<i>Thank you for your interest in the SMART Load Reload project.</i>
