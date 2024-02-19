@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\SignupForm.h(433,22): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\SignupForm.h(443,22): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\SignupForm.h(453,22): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\SignupForm.h(463,22): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\MyForm.h(579,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\MyForm.h(589,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\MyForm.h(599,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\MyForm.h(609,23): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\Videos\report\GUI_Group_17\GUI_Group_17\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  AirtelForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI_Group_17.vcxproj -> C:\Users\HP\Videos\report\GUI_Group_17\x64\Debug\GUI_Group_17.exe

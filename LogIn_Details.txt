@@ -1,0 +1,3 @@
+Username - Admin
+Password - group17
+Mail (For forgot password) - group17@gmail.com
